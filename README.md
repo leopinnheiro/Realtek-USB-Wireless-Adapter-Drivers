@@ -1,4 +1,4 @@
-#### Possuo uma impressora Ender 3 V2, recentemente instalei o [OctoPrint](https://octoprint.org/) para facilitar a comunicação com a mesma em meu Raspberry Pi 2 B+. Como ele não possui Wifi integrada comprei um dongle Wifi para realizar a conexão, após diversas pesquisas para encontrar o driver correto decidi criar esse repositorio para facilitar proximas instalações.
+#### I have an Ender 3 V2 printer, I recently installed [OctoPrint](https://octoprint.org/) to facilitate communication with it on my Raspberry Pi 2 B+. As it does not have integrated Wifi I bought a Wifi dongle to make the connection, after several searches to find the correct driver I decided to create this repository to facilitate future installations.
 
 ------------------
 
